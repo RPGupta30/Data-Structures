@@ -1,2 +1,2 @@
 # Data-Structures
-practicing data structures with examples
+practicing data-structures with examples.
